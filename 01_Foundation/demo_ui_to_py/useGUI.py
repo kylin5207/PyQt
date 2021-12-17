@@ -1,6 +1,7 @@
 # -*- coding:utf-8 -*-
 """
 useGUI演示了使用 Ui_Form类创建GUI应用程序的基本框架
+只适合测试单个窗体的UI设计效果，也就是仅能显示窗体
 
 :Author: kylin.smq@qq.com
 :Last Modified by: kylin.smq@qq.com
